@@ -1,2 +1,15 @@
-# -Daily-Digest-AI-Your-Personalized-Morning-Briefing
-Daily Digest AI is a Python + Streamlit app that delivers daily updates - news, weather, events, and quotes - based on your name and city. It integrates multiple APIs and presents results in a clean interface or via email, helping you start your day informed and inspired.
+# 🌅 Daily Digest AI
+
+An AI-powered daily digest that emails you:
+- 📰 Top news
+- 🌦 Weather
+- 📅 Calendar events
+- 💡 Motivational quotes
+
+## Setup
+
+```bash
+git clone https://github.com/yourname/DailyDigestAI
+cd DailyDigestAI
+pip install -r requirements.txt
+cp .env.example .env
